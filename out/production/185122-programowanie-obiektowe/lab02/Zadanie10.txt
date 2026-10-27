@@ -1,0 +1,12 @@
+pudelko a - 10
+pudelko b - 10 (natomiast pudelko b jest referencja do a wiec kazda zmiana b zmienia tez a)
+pudelko c - 10 (kopiujemy a)
+
+b - 20 (a wiec a tez 20)
+c - 30
+
+a - 20
+b - 20
+c - 30
+true
+false
