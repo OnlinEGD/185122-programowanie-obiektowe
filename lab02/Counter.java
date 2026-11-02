@@ -1,3 +1,5 @@
+package lab02;
+
 public class Counter
 {
     int value = 0;

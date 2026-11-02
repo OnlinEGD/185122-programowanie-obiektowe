@@ -17,7 +17,9 @@ public class User {
     }
 
     public void showUser() {
-        System.out.println("Login: " + this.login + ", haslo: " + this.password + ", wiek: ", this.age);
+        System.out.println("Login: " + this.login
+                + ", haslo: " + this.password
+                + ", wiek: " + this.age);
     }
 }
 

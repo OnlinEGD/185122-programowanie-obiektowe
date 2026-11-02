@@ -1,3 +1,4 @@
+package lab02;
 public class Book
 {
     String title;

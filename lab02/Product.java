@@ -1,3 +1,5 @@
+package lab02;
+
 public class Product
 {
     String name;

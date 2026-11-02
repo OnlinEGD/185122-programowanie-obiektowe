@@ -1,3 +1,5 @@
+package lab02;
+
 public class Dog {
     String name;
     boolean breed;
